@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Tnation87
-- 🌱 I’m a learning Android developer
 - 📫 You can reach me on tokamagdy87@gmail.com
